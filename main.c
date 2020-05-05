@@ -1,11 +1,7 @@
-/**
-  hello world program 
-  with c language
-  */
 int main()
 {
   int i;
-  for (i = 0; i < 33; i++)
+  for (i = 0; i < 32; i++)
   {
     printf("Hello Holberton\n");
   }
